@@ -6,7 +6,9 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/a50253c1-845c-468e-b861-e0584740c838"></p>
 프로젝트 명 : Flirt
 
+
 프로젝트 간단 소개 : 대학생들의 긍정적인 커뮤니티 활성화를 위한 익명투표기반의 SNS 입니다.
+
 
 프로젝트 기간 : 2024.3.26 ~ 2024.6.5
 
