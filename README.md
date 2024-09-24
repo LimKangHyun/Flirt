@@ -19,7 +19,7 @@
    
    ◦ 팀장 / 페이지(투표, 로그인 및 회원가입, 게시물 투표) UI 제작, FireStore 관리, iOS 빌드
    
-   ◦ Github : @LimKangHyun
+   ◦ Github : [@LimKangHyun](https://github.com/LimKangHyun)
    
    
 3. 홍승관
@@ -29,7 +29,8 @@
    
 5. 한형규
    
-   ◦ 페이지(투표, 투표함) UI 제작, FireStore 관리, 일러스트 관리 
+   ◦ 페이지(투표, 투표함) UI 제작, FireStore 관리, 일러스트 관리
+   ◦ Github : [@HAN2231](https://github.com/HAN2231)
 
 
 ## 📱 주요 기능 및 인터페이스
