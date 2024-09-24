@@ -6,7 +6,7 @@
 📱 주요 기능 및 인터페이스
 |재학생 로그인|익명 투표|게시물 투표|
 |---|---|---|
-|![image-2](https://github.com/user-attachments/assets/f357c059-38c0-4057-9a58-e9ecdd4f7ca8)
+|![image-2-2](https://github.com/user-attachments/assets/ddb821be-ea50-4f27-8c07-d27753aa3ef1)
 ||![IMG_9056](https://github.com/user-attachments/assets/1c62bc1d-6ab4-4da5-995d-a4583548e5de)|
 |익명채팅|랭킹|초성확인|
 |---|---|---|
