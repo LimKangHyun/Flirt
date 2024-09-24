@@ -5,7 +5,9 @@
 ## 프로젝트 소개 📝
 <p align="center"><img src="https://github.com/user-attachments/assets/eb6766a6-82b5-4596-9de9-27714f6e0e93"></p>
 프로젝트 명 : Flirt
+
 프로젝트 간단 소개 : 대학생들의 긍정적인 커뮤니티 활성화를 위한 익명투표기반의 SNS 입니다.
+
 프로젝트 기간 : 2024.3.26 ~ 2024.6.5
 
 
@@ -13,8 +15,10 @@
 1. 임강현
    ◦ 팀장 / 페이지(투표, 로그인 및 회원가입, 게시물 투표) UI 제작, FireStore 관리, iOS 빌드
    ◦ Github : @LimKangHyun
+   
 2. 홍승관
    ◦ 페이지(프로필, 랭킹, Setting) UI 제작, 안드로이드 빌드
+   
 3. 한형규
    ◦ 페이지(투표, 투표함) UI 제작, FireStore 관리, 일러스트 관리 
 
@@ -36,7 +40,8 @@
 
 
 ## ⚙️ 기술 스택
-###FrontEnd
+### FrontEnd
 Flutter, Dart, AndroidStudio
-###BackEnd
+
+### BackEnd
 Firebase, FireStore, Firebase Authentication
