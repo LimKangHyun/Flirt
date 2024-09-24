@@ -30,6 +30,7 @@
 5. 한형규
    
    ◦ 페이지(투표, 투표함) UI 제작, FireStore 관리, 일러스트 관리
+   
    ◦ Github : [@HAN2231](https://github.com/HAN2231)
 
 
