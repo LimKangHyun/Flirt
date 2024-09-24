@@ -6,12 +6,16 @@
 📱 주요 기능 및 인터페이스
 |학생 인증|익명 투표|게시물 투표|
 |---|---|---|
-|||![IMG_9056](https://github.com/user-attachments/assets/7899fcce-8fa6-4311-8a45-7233ca229917)
+|||![IMG_9056](https://github.com/user-attachments/assets/1c62bc1d-6ab4-4da5-995d-a4583548e5de)
+
 
 |
 |익명채팅|랭킹|초성확인|
-|![IMG_9055](https://github.com/user-attachments/assets/e0c6e167-beec-49af-9ae5-b6996234dba8)
+|---|---|---|
+|![IMG_9055](https://github.com/user-attachments/assets/d449d315-c623-4e85-baf0-9b110b201c41)
 
-|![IMG_9054](https://github.com/user-attachments/assets/bbb5ada1-906e-41d6-9cbc-346a2d26c563)
+
+|![IMG_9054](https://github.com/user-attachments/assets/7f0dfedd-96ed-469b-a2b1-5cbfc5908793)
+
 
 |
