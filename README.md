@@ -33,10 +33,11 @@
 
 
 ## 🖥️ 시연 영상
-https://github.com/user-attachments/assets/803bd5f9-87db-452b-bbc4-f8c1f64d1400
+---
 
-
-
+<div align="center">
+https://github.com/user-attachments/assets/cb847c15-8b2b-4456-80a6-40e968ce5ab1
+</div>
 
 ## ⚙️ 기술 스택
 ---
