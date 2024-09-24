@@ -33,7 +33,9 @@
 
 
 ## 🖥️ 시연 영상
-![GIFMaker_me](https://github.com/user-attachments/assets/2e880985-be21-4cff-a042-fdd23ddfad4f)
+https://github.com/user-attachments/assets/803bd5f9-87db-452b-bbc4-f8c1f64d1400
+
+
 
 
 ## ⚙️ 기술 스택
