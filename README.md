@@ -1,15 +1,15 @@
-# 🤝 대학생 익명 SNS Flirt
+# 🤝 Flirt [대학생 익명 SNS]
 <p align="center"><img src="https://github.com/user-attachments/assets/d842d41e-ccb3-41b5-ab15-3f890dea9016"></p>
 
 
 ## 프로젝트 소개 📝
----
+<p align="center"><img src="https://github.com/user-attachments/assets/eb6766a6-82b5-4596-9de9-27714f6e0e93"></p>
 프로젝트 명 : Flirt
 프로젝트 간단 소개 : 대학생들의 긍정적인 커뮤니티 활성화를 위한 익명투표기반의 SNS 입니다.
 프로젝트 기간 : 2024.3.26 ~ 2024.6.5
 
+
 ## 멤버 소개 및 역할 👨‍💻
----
 1. 임강현
    ◦ 팀장 / 페이지(투표, 로그인 및 회원가입, 게시물 투표) UI 제작, FireStore 관리, iOS 빌드
    ◦ Github : @LimKangHyun
@@ -20,7 +20,6 @@
 
 
 ## 📱 주요 기능 및 인터페이스
----
 |재학생 로그인|익명 투표|게시물 투표|
 |:---:|:---:|:---:|
 |<img src="https://github.com/user-attachments/assets/7de9bbed-d667-4ea8-9635-61603347f25f" width="211" height="479" />|<img src="https://github.com/user-attachments/assets/8b6aac9c-0a37-4e1f-8715-d03f1a867b49" width="211" height="479" />|<img src="https://github.com/user-attachments/assets/3fbd81c6-ea31-4bec-91ab-131871a2ad97" width="211" height="479" />|
@@ -33,14 +32,10 @@
 
 
 ## 🖥️ 시연 영상
----
+<p align="center"><img src="https://github.com/user-attachments/assets/cb847c15-8b2b-4456-80a6-40e968ce5ab1"></p>
 
-<div align="center">
-https://github.com/user-attachments/assets/cb847c15-8b2b-4456-80a6-40e968ce5ab1
-</div>
 
 ## ⚙️ 기술 스택
----
 ###FrontEnd
 Flutter, Dart, AndroidStudio
 ###BackEnd
