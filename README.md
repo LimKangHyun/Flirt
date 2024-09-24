@@ -1,6 +1,7 @@
 # 🤝 대학생 익명 SNS Flirt
 ---
-![IMG_9640](https://github.com/user-attachments/assets/fd78e020-7d14-460e-a715-4fd3d342730f)
+![IMG_9640-2](https://github.com/user-attachments/assets/6458d1fb-f296-4490-8e5e-732ed71f0732)
+
 ---
 📱 주요 기능 및 인터페이스
 |학생 인증|익명 투표|게시물 투표|
