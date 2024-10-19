@@ -34,7 +34,7 @@
    ◦ Github : [@HAN2231](https://github.com/HAN2231)
 
 
-## 📱 주요 기능 및 인터페이스
+## 주요 기능 및 인터페이스 📱
 |재학생 로그인|익명 투표|게시물 투표|
 |:---:|:---:|:---:|
 |<img src="https://github.com/user-attachments/assets/7de9bbed-d667-4ea8-9635-61603347f25f" width="211" height="479" />|<img src="https://github.com/user-attachments/assets/8b6aac9c-0a37-4e1f-8715-d03f1a867b49" width="211" height="479" />|<img src="https://github.com/user-attachments/assets/3fbd81c6-ea31-4bec-91ab-131871a2ad97" width="211" height="479" />|
@@ -46,7 +46,7 @@
 |투표받은 상대방은 자신에게 투표한 사용자에게 익명으로 채팅을 걸 수 있습니다.|가장 많이 투표받은 사용자의 순위를 확인할 수 있습니다.|투표받은 사용자는 자신에게 투표한 상대방의 힌트 및 부가정보를 확인할 수 있습니다.|
 
 
-## 🖥️ 시연 영상
+## 시연 영상 🖥️
 <p align="center"><img src="https://github.com/user-attachments/assets/cb847c15-8b2b-4456-80a6-40e968ce5ab1"></p>
 
 
