@@ -1,4 +1,4 @@
-# 🤝 Flirt [대학생 익명 SNS]
+# 🤝 Flirt [대학생 익명투표 SNS]
 <p align="center"><img src="https://github.com/user-attachments/assets/d842d41e-ccb3-41b5-ab15-3f890dea9016"></p>
 
 
